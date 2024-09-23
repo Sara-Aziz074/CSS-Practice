@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    height: 10vh;
+}
+ul{
+    padding: 34px;
+}
+li{
+    display: inline;
+    color: white;
+    padding: 0 41px;
+}
+.floot{
+    float: right;
+    background-color: rgb(191, 130, 61);
+    width: 40vw;
+    height: 80vh;
+}
+
+.floot2{
+    float: left;
+    background-color: cadetblue;
+    width: 40vw;
+    height: 80vh;
+}

@@ -1,0 +1,16 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.pink{
+    background: #b5e50b;
+    color: #000;
+    height: 40px;
+}
+body{
+    background-image: url("typingtest.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 344;
+}

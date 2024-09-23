@@ -1,0 +1,41 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(86, 105, 36);
+    color: aliceblue;
+   height: 35px;
+   text-decoration: double;
+}
+.main{
+    background-color:rgb(231, 240, 235);
+    height: 700px;
+    margin-bottom: 30px;
+}
+h1{
+    margin-bottom: 10px;
+    box-shadow: 10cm;
+}
+.content{
+    margin-top: 10px;
+    box-sizing: border-box;
+    background:plum;
+}
+.h2{  
+      margin: 10px;
+      box-shadow: 10cm;
+
+}
+.cot2{
+    margin-top: 10px;
+    background-color: plum;
+    box-sizing: border-box;
+
+}
+.footer{
+    margin-top: 20px;
+    background-color: rgb(86, 105, 36) ;
+    height: 40px;
+}

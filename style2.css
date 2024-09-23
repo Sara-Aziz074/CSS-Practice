@@ -1,0 +1,30 @@
+
+*{margin: 0;
+padding: 0;}
+.nav{
+    background-color: #328ca8;
+    color: #aecae0;
+}
+.main{
+    background-color: red;
+    width: vh;
+    height: vh;
+}
+.img{
+    width: vhpx;
+height: 400px;
+background-image: url('2prcts.png');
+background-repeat: no-repeat;
+background-color: #a3f358;
+background-size: 348px;
+}
+
+.vertical{
+    background-color:  rgb(194, 155, 28);
+    position: fixed;
+    height: 800px;
+    width: 300px;
+    background-attachment: fixed;
+
+
+}

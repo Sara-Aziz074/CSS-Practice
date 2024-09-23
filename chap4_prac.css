@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.black{
+    background-color: black;
+    color: white;
+    height: 10vh;
+    
+}
+.red{
+    background: red;
+ width: 50%;
+ height: 45vh;
+ display: inline-block;
+ color: white;
+
+}
+.green{
+    background-color: green;
+ width: 50%;
+ height: 45vh;
+color: white;
+ display: inline-block;
+
+}
+.hidden{
+    background-color: rgb(25, 15, 112);
+    height: 45vh;
+    width: 50%;
+    display: none;
+    color: white;
+}
+.visibality{
+    background-color: rgb(227, 45, 105);
+    height: 45vh;
+    width: 50%;
+    visibility: visible;
+    color: white;
+}
+footer{
+    background-color: black;
+    height: 5vh;
+    color: white;
+text-transform: uppercase;
+}
+.center{
+    text-align: center;
+}
